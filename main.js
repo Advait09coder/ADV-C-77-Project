@@ -28,19 +28,19 @@ console.log(num2);
 
 // first we will do addition for addition we use the + symbol to add variables
 var addition = num1 + num2;
-console.log(addition);
+console.log("Sum = " + addition);
 
 // second we will do subtraction for subtraction we use - symbol to subtract variables
 var subtraction = num1 - num2;
-console.log(subtraction);
+console.log("Difference = " + subtraction);
 
 // third we will do division for division we use / symbol to divide variables
 var division = num1 / num2;
-console.log(division);
+console.log("Quotient = " + division);
 
 // last we will do multiplication for multiplication we use * symbol to multily variables
 var multiplication = num1 * num2;
-console.log(multiplication);
+console.log("Product = " + multiplication);
 
 
 
